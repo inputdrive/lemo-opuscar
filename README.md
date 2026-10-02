@@ -241,3 +241,6 @@ Click a frame for its `STYLE.md` · 点图片看它的 `STYLE.md`。
 
 Made by **LemoLab × Claude Opus 5.5**. MIT licensed. Third-party assets in the demos keep their own licences (see each demo's `CREDITS`); you are responsible for the materials you use in your films.<br>
 **LemoLab × Claude Opus 5.5** 出品，MIT 协议。样片中的第三方素材沿用各自的授权（见各样片的 `CREDITS`）；你在自己片子里使用的素材由你负责。
+
+This repository is a fork of [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar); changes in this fork are by Greg Gutman, also under MIT.<br>
+本仓库 fork 自 [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)；本 fork 中的修改由 Greg Gutman 完成，同样采用 MIT 协议。
